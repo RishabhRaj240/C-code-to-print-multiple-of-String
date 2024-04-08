@@ -13,5 +13,3 @@ int main(void)
 			i, multiple[i], *(p + i), i, &multiple[i], i, p + i);
 	return 0;
 }
-
-
